@@ -9,10 +9,10 @@ Contains more information and links relevant to me
 
 ## Projects
 
-- [Hellhound](https://github.com/0xQuotient/Hellhound): 
-- [Pond](https://github.com/0xQuotient/Pond): 
-- [WhoHacker](https://github.com/0xQuotient/WhoHacker): 
-
+- [Hellhound](https://github.com/0xQuotient/Hellhound): Social Engineering Meta Analysis Tool - Uncover Patterns & Gain Insight
+- [Pond](https://github.com/0xQuotient/Pond): Social Engineering CTF Platform; HackTheBox inspired Training Range
+- [WhoHacker](https://github.com/0xQuotient/WhoHacker): Offensive Security Tag Assessment - Simplify Your Specialty
+  
 ## Writing
 
 I write about cybersecurity, psychology, finance, and more. 
