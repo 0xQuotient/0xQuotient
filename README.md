@@ -1,16 +1,24 @@
-## Hi there 👋
+# Derrick L. Jr
 
-<!--
-**0xQuotient/0xQuotient** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build tools. Psychology B.S. major with focus in web, networks, and cryptocurrency. Human Computer Symbiosis, Technical Hacking, & Cognitive Psychology are interesting 
 
-Here are some ideas to get you started:
+## Website
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My Website: 0xquotient.github.io  
+Contains more information and links about me
+
+## Projects
+
+- [Hellhound](https://github.com/0xQuotient/Hellhound): 
+- [Pond](https://github.com/0xQuotient/Pond): 
+- [WhoHacker](https://github.com/0xQuotient/WhoHacker): 
+
+## Writing
+
+I write about cybersecurity, psychology, finance, and more. 
+
+[paragraph.com/@derrickjr](https://paragraph.com/@derrickjr).
+
+## Contact
+
+[LinkedIn](https://linkedin.com/in/derrick-last-jr-082541361)
