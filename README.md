@@ -5,7 +5,7 @@ I build tools. Psychology B.S. major with focus in web, networks, and cryptocurr
 ## Website
 
 My Website: 0xquotient.github.io  
-Contains more information and links about me
+Contains more information and links relevant to me
 
 ## Projects
 
